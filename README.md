@@ -25,10 +25,6 @@ Apaixonado por resolver problemas, aprender novas tecnologias e contribuir para 
 - Desenvolvimento acessível (WCAG)  
 - Testes automatizados e boas práticas de código  
 
-## 📫 Como me encontrar  
-- LinkedIn: [SeuPerfilLinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- Email: seu.email@exemplo.com  
-- Twitter / X: [@SeuUser](https://twitter.com/SeuUser)  
 
 ---
 
@@ -38,16 +34,6 @@ Apaixonado por resolver problemas, aprender novas tecnologias e contribuir para 
 
 ---
 
-## 🎯 Badges
-
-<!-- Exemplo de badges populares -->
-[![GitHub followers](https://img.shields.io/github/followers/YannThallys1?label=Follow&style=social)](https://github.com/YannThallys1)  
-[![GitHub stars](https://img.shields.io/github/stars/YannThallys1?style=social)](https://github.com/YannThallys1)  
-[![GitHub issues](https://img.shields.io/github/issues/YannThallys1?style=flat-square)](https://github.com/YannThallys1/issues)  
-[![GitHub license](https://img.shields.io/github/license/YannThallys1/AccessSync)](https://github.com/YannThallys1/AccessSync/blob/main/LICENSE)  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=YannThallys1.YannThallys1)](https://github.com/YannThallys1)
-
----
 
 > “A tecnologia só é transformadora quando todos têm acesso a ela.”  
 > — Yann Thallyss
